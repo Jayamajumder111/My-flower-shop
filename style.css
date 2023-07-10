@@ -1,0 +1,39 @@
+/* banner section */
+.banner{
+    padding:30px 30px 0px 150px;
+    background-color: rgba(229,84,115,0.10);
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.banner .profile-pic{
+    width:600px;
+}
+.heading-title{
+    font-size: 80px;
+    font-weight: 700;
+    color:#272727;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    line-height:70px;
+    
+}
+.banner-container{
+    max-width: 500px;
+}
+.banner-description{
+    font-size: 15px;
+    font-weight: 300;
+    line-height:25px ;
+    margin-bottom:20px ;
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #E55473;
+    border: 0;
+    padding: 23px 50px;
+    color:white;
+    font-size:18px
+
+}

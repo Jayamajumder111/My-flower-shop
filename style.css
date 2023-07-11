@@ -88,4 +88,12 @@
     text-decoration-line: underline;
    
 }
+.heading-title-1{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+span{
+    color:#E55473;
+}
 
